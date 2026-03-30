@@ -1,0 +1,9 @@
+spd = 0.67;
+depth = -1000;
+timeUniform = shader_get_uniform(shd_wave, "time");
+frequencyUniform = shader_get_uniform(shd_wave, "frequency");
+amplitudeUniform = shader_get_uniform(shd_wave, "amplitude");
+waveTime = 0;
+freq = 0.1;
+amp = 0.03;
+ringPower = 12;

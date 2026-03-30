@@ -1,0 +1,10 @@
+state = states.normal;
+og_x = x;
+og_y = y;
+event_inherited();
+spr_idle = spr_potablebean_idle;
+spr_walk = spr_potablebean_move;
+spr_panicidle = spr_potablebean_idlepanic;
+spr_intro = spr_potablebean_intro;
+spr_taunt = spr_potablebean_taunt;
+sprite_index = spr_intro;

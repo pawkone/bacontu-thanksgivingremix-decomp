@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"gifHx",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"gifHx",
+  "parent":{
+    "name":"sprite_add_gif",
+    "path":"folders/Extensions/sprite_add_gif.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

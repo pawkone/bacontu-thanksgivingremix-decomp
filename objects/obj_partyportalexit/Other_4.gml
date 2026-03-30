@@ -1,0 +1,33 @@
+if (place_meeting(x, y, obj_doorA))
+    targetDoor = "A";
+
+if (place_meeting(x, y, obj_doorB))
+    targetDoor = "B";
+
+if (place_meeting(x, y, obj_doorC))
+    targetDoor = "C";
+
+if (place_meeting(x, y, obj_doorD))
+    targetDoor = "D";
+
+if (place_meeting(x, y, obj_doorE))
+    targetDoor = "E";
+
+if (place_meeting(x, y, obj_doorF))
+    targetDoor = "F";
+
+if (place_meeting(x, y, obj_doorG))
+    targetDoor = "G";
+
+if (place_meeting(x, y, obj_doorH))
+    targetDoor = "H";
+
+if (place_meeting(x, y, obj_doorS))
+    targetDoor = "S";
+
+if (obj_player.door == targetDoor)
+{
+    image_speed = 0.35;
+    cutscene = true;
+    obj_camera.camera.zoom = 1.2;
+}

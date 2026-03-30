@@ -1,0 +1,14 @@
+currentRoom = room;
+xscale = 1;
+flash = false;
+angle = 0;
+palIndex = 0;
+spr_palette = 0;
+name = "TEST";
+image_speed = 0;
+socket = -4;
+onlineID = -4;
+state = states.normal;
+alpha = 0;
+paused = false;
+breakdanceID = -4;
