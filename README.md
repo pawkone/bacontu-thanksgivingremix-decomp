@@ -1,7 +1,7 @@
 ### If used for a mod or anything like that, please credit pawkone on github!
 
 # REQUESTED DECOMP
-## please contact me in discord "pawkone" for more decomps of your choosing! 
+please **contact me** in discord **["pawkone"](https://discord.com/users/1407661817270112416)** for **more decompiles of your choosing**!
 
 # What's Shakin', Bacon "thanksgivingremix" - Decomp
 A decompile of the ***"What's Shakin', Bacon?", "thanksgivingremix"*** **build**
